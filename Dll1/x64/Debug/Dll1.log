@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+H:\games\speedrun stuff\Dll1\Dll1\dllmain.cpp(4,10): fatal error C1083: Cannot open precompiled header file: 'x64\Debug\Dll1.pch': No such file or directory
+  mem.cpp
+H:\games\speedrun stuff\Dll1\Dll1\mem.cpp(2,10): fatal error C1083: Cannot open precompiled header file: 'x64\Debug\Dll1.pch': No such file or directory
+  Generating Code...

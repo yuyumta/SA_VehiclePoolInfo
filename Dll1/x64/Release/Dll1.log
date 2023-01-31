@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+H:\games\speedrun stuff\Dll1\Dll1\dllmain.cpp(165,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  mem.cpp
+H:\games\speedrun stuff\Dll1\Dll1\mem.cpp(32,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
